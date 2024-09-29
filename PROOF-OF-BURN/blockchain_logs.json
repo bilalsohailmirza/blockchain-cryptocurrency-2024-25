@@ -1,0 +1,75 @@
+{
+  "leaf_nodes": {
+    "0000000000000000000000000000000000000000000000000000000000000000": {
+      "CURR_COIN_VAL": 700,
+      "NAME": "Eater",
+      "TRANSFER_READY": false,
+      "TRANSFER_HISTORY": {
+        "INCOMING": {
+          "5b41362bc82b7f3d56edc5a306db22105707d01ff4819e26faef9724a2d406c9": 0,
+          "f60f2d65da046fcaaf8a10bd96b5630104b629e111aff46ce89792e1caa11b18": 0,
+          "02c6edc2ad3e1f2f9a9c8fea18c0702c4d2d753440315037bc7f84ea4bba2542": 0,
+          "8124fbbe5b8bdec2327fad56e65dcbb0dce3a63d9de76e9444bf57de3dd3dcc0": 100,
+          "3117134e234edc41782606a6136a63b4cf9fb5a0ea874a4d8582c318e1f1718e": 100,
+          "362cd09386c12c213744f7b6456bfc0ed0c0c95348ff39ff0b5ff536dcf31f4d": 100,
+          "668aacf4de3de38c128fda28db5b73c48b8d0e388eef4116d607ed7a00f5e86c": 100,
+          "d6fae2752ac1f5a9455674f23627c646eb438ab3278a3f78d900467b067bc3d6": 100,
+          "16a819218b864e7d2dea2f5993aef8d2a4259d8bd6b340c9c9f7a6d7a9719f32": 100,
+          "5647812557709e56bbff71fa55163694542e4a69147ef7b046e72e9b7a7265de": 100
+        }
+      }
+    },
+    "5b41362bc82b7f3d56edc5a306db22105707d01ff4819e26faef9724a2d406c9": {
+      "CURR_COIN_VAL": 50,
+      "NAME": "Muhammad Ahmed",
+      "TRANSFER_READY": true,
+      "TRANSFER_HISTORY": {
+        "INCOMING": {},
+        "OUTGOING": {
+          "0000000000000000000000000000000000000000000000000000000000000000": 0
+        }
+      }
+    },
+    "f60f2d65da046fcaaf8a10bd96b5630104b629e111aff46ce89792e1caa11875575d85706a30a54554dca0a077047ee1590dc41c6389f327a19bfbea30c1cb18": {
+      "CURR_COIN_VAL": 100,
+      "NAME": "Bilal Sohail",
+      "TRANSFER_READY": true,
+      "TRANSFER_HISTORY": {
+        "INCOMING": {},
+        "OUTGOING": {
+          "0000000000000000000000000000000000000000000000000000000000000000": 0
+        }
+      }
+    },
+    "02c6edc2ad3e1f2f9a9c8fea18c0702c4d2d753440315037bc7f84ea4bba2542": {
+      "CURR_COIN_VAL": 50,
+      "NAME": "Shahbaz Siddiqui",
+      "TRANSFER_READY": true,
+      "TRANSFER_HISTORY": {
+        "INCOMING": {},
+        "OUTGOING": {
+          "0000000000000000000000000000000000000000000000000000000000000000": 0
+        }
+      }
+    },
+    "7c6f068b8938e0b5e27157cb71f2427b1aecf76368721117198f6c997ccd2ffb": {
+      "CURR_COIN_VAL": 499300,
+      "NAME": "Muhammad Umar",
+      "TRANSFER_READY": true,
+      "TRANSFER_HISTORY": {
+        "INCOMING": {},
+        "OUTGOING": {
+          "0000000000000000000000000000000000000000000000000000000000000000": 0,
+          "8124fbbe5b8bdec2327fad56e65dcbb0dce3a63d9de76e9444bf57de3dd3dcc0": 100,
+          "3117134e234edc41782606a6136a63b4cf9fb5a0ea874a4d8582c318e1f1718e": 100,
+          "362cd09386c12c213744f7b6456bfc0ed0c0c95348ff39ff0b5ff536dcf31f4d": 100,
+          "668aacf4de3de38c128fda28db5b73c48b8d0e388eef4116d607ed7a00f5e86c": 100,
+          "d6fae2752ac1f5a9455674f23627c646eb438ab3278a3f78d900467b067bc3d6": 100,
+          "16a819218b864e7d2dea2f5993aef8d2a4259d8bd6b340c9c9f7a6d7a9719f32": 100,
+          "5647812557709e56bbff71fa55163694542e4a69147ef7b046e72e9b7a7265de": 100
+        }
+      }
+    }
+  },
+  "root_hash": "1da7c2c6bdf5b53f858148116d5299ea6edf35f7004fa3eef9cae49491963c42"
+}
