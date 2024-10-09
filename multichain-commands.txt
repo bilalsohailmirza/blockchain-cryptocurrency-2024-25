@@ -1,0 +1,5 @@
+multichain-util create <chain_name> (command to create a new blockchain)
+multichaind <chain_name> -daemon (to initalize chain instance in th background)
+multichain-cli <chain_name> getinfo (to get info about the chain)
+multichaind <chain_name_to_connect_with>@[chain_ip_address] -daemon
+multichain-cli <chain_name> grant <chain_address_hash> connect
